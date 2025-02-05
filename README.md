@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">MERN Stack Developer</p>
+<p align="center">Front-End Developer | MERN Stack Developer </p>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/rumman-mahfuz3333" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
