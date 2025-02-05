@@ -15,7 +15,7 @@
 <h2 align="left">About Me</h2>
 
 ###
-
+<p>I'm a skilled web developer specializing in building modern, scalable, and user-friendly web applications. My expertise includes front-end development with React.js, Tailwind CSS, and JavaScript, as well as back-end development using Node.js, Express.js, and MongoDB.  I'm passionate about staying current with the latest technologies to deliver high-quality, performant, and maintainable code for impactful digital experiences.</p>
 <p align="left">✨  Debugging life since 2024<br>📚  Currently learning how to build role-based applications using the MERN stack<br>🎯 Goals: Become junior Developer by 2025<br>🎲 Hobby: Badminton enthusiast</p>
 
 ###
